@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Farmacity.Api/Farmacity.Api.csproj" />
+  <Project Path="Farmacity.Core/Farmacity.Core.csproj" />
+  <Project Path="Farmacity.Infrastructure/Farmacity.Infrastructure.csproj" />
+</Solution>
